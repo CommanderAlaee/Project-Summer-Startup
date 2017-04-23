@@ -53,3 +53,4 @@ Resources for machine learning
 * http://www.projectforrest.com/path/83
 * http://www.deeplearningbook.org/
 * http://neuralnetworksanddeeplearning.com/chap1.html
+test
